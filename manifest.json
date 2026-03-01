@@ -1,6 +1,6 @@
 {
-  "name": "Hello PWA",
-  "short_name": "HelloPWA",
+  "name": "Market Pig",
+  "short_name": "MarketPig",
   "start_url": "/market-pig-app/",
   "scope": "/market-pig-app/",
   "display": "standalone",
