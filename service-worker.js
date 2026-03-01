@@ -1,5 +1,5 @@
-const CACHE_NAME = "hello-pwa-v1";
-const BASE_PATH = "/hello-pwa/";
+const CACHE_NAME = "market-pig-app-v1";
+const BASE_PATH = "/market-pig-app/";
 
 const urlsToCache = [
   BASE_PATH,
