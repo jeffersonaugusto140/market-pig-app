@@ -1,7 +1,10 @@
 const CACHE_NAME = "hello-pwa-v1";
+const BASE_PATH = "/hello-pwa/";
+
 const urlsToCache = [
-  "/",
-  "/index.html"
+  BASE_PATH,
+  BASE_PATH + "index.html",
+  BASE_PATH + "manifest.json"
 ];
 
 self.addEventListener("install", event => {

@@ -1,18 +1,19 @@
 {
   "name": "Hello PWA",
   "short_name": "HelloPWA",
-  "start_url": ".",
+  "start_url": "/hello-pwa/",
+  "scope": "/hello-pwa/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
